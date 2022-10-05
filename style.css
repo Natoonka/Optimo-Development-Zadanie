@@ -1,0 +1,61 @@
+body{
+    background-color: green;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    background-color: olive;
+    text-align: center;
+    font-size: xx-large;
+}
+.first{
+    float: left;
+}
+.romb{
+    float: left;
+}
+.circle{
+    float: right;
+}
+.redrhombus{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    transform: rotate(70deg) skewX(45deg) scaleY(0.7);
+    float: left;
+    margin: 10px;
+    margin-top: 100PX;
+}
+.lines{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float:left;
+}
+.tline{
+    background-color: blue;
+    width: 200px;
+    height: 20px;
+    margin-bottom: 40px;
+}
+.bline{
+    background-color: blue;
+    width: 200px;
+    height: 20px;
+    margin-top: 40px;
+}
+.dot{
+    float: left;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.text{
+    float: left;
+    background-color: brown;
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    padding: 10px;;
+}
